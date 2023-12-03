@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício 04 For Contagem de Vogais", "Exercício 04 For Contagem de Vogais.csproj", "{B55510FF-F201-4D62-8971-8A91546DB97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55510FF-F201-4D62-8971-8A91546DB97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55510FF-F201-4D62-8971-8A91546DB97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55510FF-F201-4D62-8971-8A91546DB97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55510FF-F201-4D62-8971-8A91546DB97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401F000C-4D0A-43A2-8D9A-57D994CCF693}
+	EndGlobalSection
+EndGlobal

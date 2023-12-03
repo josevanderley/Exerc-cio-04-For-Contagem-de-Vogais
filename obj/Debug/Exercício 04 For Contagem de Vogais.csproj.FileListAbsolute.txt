@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\bin\Debug\Exercício 04 For Contagem de Vogais.exe.config
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\bin\Debug\Exercício 04 For Contagem de Vogais.exe
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\bin\Debug\Exercício 04 For Contagem de Vogais.pdb
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\obj\Debug\Exercício 04 For Contagem de Vogais.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\obj\Debug\Exercício 04 For Contagem de Vogais.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\obj\Debug\Exercício 04 For Contagem de Vogais.exe
+C:\Users\Ornare\source\repos\Exercício 04 For Contagem de Vogais\obj\Debug\Exercício 04 For Contagem de Vogais.pdb
